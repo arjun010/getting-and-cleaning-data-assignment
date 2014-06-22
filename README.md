@@ -26,4 +26,4 @@ This script does the following:
 
 ## Tidy Data
 
-The resulting tidy dataset is in this repository at: `data/tidy.txt`. It contains one row for each subject/activity pair and columns for subject, activity, and each feature that was a mean or standard deviation from the original dataset.
+The resulting tidy dataset is in this repository at: `data/tidy.txt` ( *I have not uploaded the data folder in the repo due to limited access to the net*). It contains one row for each subject/activity pair and columns for subject, activity, and each feature that was a mean or standard deviation from the original dataset.
